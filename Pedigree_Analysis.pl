@@ -489,3 +489,4 @@ sub Analysis{				#分析流程;
 	print ".....................[OK]\n";
 	close CH;
 }
+1
