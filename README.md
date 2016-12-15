@@ -1,4 +1,5 @@
 # Pedigree_Analysis.pl
+```
         Function:Pedigree Analysis For WES Family    
         Useage:'cd' the dir and run 'Perl Pedigree_Analysis.pl <-Parameter>'    
         Parameter:    
@@ -11,5 +12,6 @@
                 Denovo_Mutation.txt     
                 Paternal_Genetic.txt    
                 Maternal_Genetic.txt    
+```
 ------------------------------------END-----------------------------------   
                 Author:ZQ       DATA:2016-8-22  Version:1.0    
